@@ -1,28 +1,23 @@
+<h1 align="center">hey there 👋 I'm Avinash Yennam</h1>
+
+###
+
+<h3 align="center">A passionate Full Stack Developer with MERN tech stack</h3>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/avinashyennam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://avinashyennam02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Avinashyennam.Avinashyennam&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="center">I'm a passionate fullstack developer with MERN tech stack</h3>
-
-###
-
-<p align="left">- 🔭 I’m currently working on Full-stack Development<br>- 🌱 I’m currently learning Data Structures<br>- 👯 I’m looking to collaborate on Real time projects<br>- 💬 Ask me about MERN and Data Structures<br>- 📫 How to reach me: connect with me at linkedin https://linkedin.com/in/avinashyennam<br>- 😄 Pronouns: He/Him</p>
+<p align="left">- 🔭 I’m currently working on Full-stack Development<br>- 🌱 I’m currently learning Data Structures<br>- 👯 I’m looking to collaborate on Real time projects<br>- 💬 Ask me about MERN stack and Data Structures</p>
 
 ###
 
@@ -62,6 +57,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Avinashyennam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashyennam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avinashyennam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
