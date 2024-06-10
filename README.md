@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Full Stack Developer with MERN tech stack</h3>
+<h3 align="center">A passionate Full Stack Developer with MERN Tech Stack</h3>
 
 ###
 
