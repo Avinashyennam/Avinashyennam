@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Full-stack Development<br>- 🌱 I’m currently learning Data Structures<br>- 👯 I’m looking to collaborate on Real time projects<br>- 💬 Ask me about MERN stack and Data Structures</p>
+<p align="left">- 🔭 I’m currently working on Full-stack Development<br>- 🌱 I’m currently learning Data Structures<br>- 👯 I’m looking to collaborate on Real time projects<br>- 💬 Ask me about MERN stack and Data Structures<br>- ⚡ how to reach me: <a href="avinashyennam02@gmail.com" target="blank">avinashyennam01@gmail.com</a></p>
 
 ###
 
